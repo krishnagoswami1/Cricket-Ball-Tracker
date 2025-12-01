@@ -1,0 +1,22 @@
+# Core video processing
+opencv-python==4.8.0.76
+opencv-python-headless==4.8.0.76
+
+# Numerical computing
+numpy==1.26.4
+pandas==2.1.4
+
+# YOLO (Ultralytics)
+ultralytics==8.1.0
+
+# Visualization & logging
+tensorboard==2.16.2
+
+# Roboflow dataset download
+roboflow==1.1.32
+requests==2.31.0
+
+# Deep learning backend (PyTorch for YOLO)
+torch==2.1.2
+torchvision==0.16.2
+
